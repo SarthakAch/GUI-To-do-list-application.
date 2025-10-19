@@ -1,2 +1,2 @@
-# GUI-To-do-list-application.
+# GUI To-do list application.
 To-do list window application.
